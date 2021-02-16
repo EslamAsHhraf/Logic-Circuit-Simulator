@@ -1,0 +1,11 @@
+4
+SWITCH	1	 s	471	289
+LAMP	7	 led	1128	248
+AND2	2	 a	605	267
+NOT	3	 i	877	274
+Connections
+1	2	0
+1	2	1
+2	3	0
+3	7	0
+-1

@@ -1,0 +1,9 @@
+Phase1-Code: 
+Code that you should extend for project phase1
+
+Project Framework: 
+After finalizing pahse 1, add phase1 files to this folder and extend the code to complete the project
+
+VC Graphis Library: 
+Graphics library you should use for Graphical User Interface (GUI). 
+It is already integrated with the project framework code and with phase1 code
