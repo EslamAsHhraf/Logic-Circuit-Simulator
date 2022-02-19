@@ -65,131 +65,96 @@ to ubderstand the project very well
 ## <img align= center width=70px height=70px src="https://media1.giphy.com/media/nHleupBZABMQWmfAMO/giphy.gif?cid=ecf05e47wkwbv3rgkaphdtu3la6iodc4y2asi7r4pufjgfua&rid=giphy.gif&ct=s"> Icons and Their Description <a id ="icons"></a>
 
 ### <img align= center width=50px height=50px src="https://media3.giphy.com/media/gaozKmGlTJbBnwT5av/200w.webp?cid=ecf05e477dfxjo8wdjl2xcyi6hjhfbtkemj784yotetprezi&rid=200w.webp&ct=s"> Design Mode Icons:
- <div style="display: flex;">
-<table style="padding: 5px;  ">
+
+<table>
   <thead >
          <th style="text-align: center;">Icons</th>
+         <th style="text-align: center;">Description</th>
+          <th style="text-align: center;">Icons</th>
          <th style="text-align: center;">Description</th>
   </thead>
   <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797078-a5deb028-9a4f-4571-bd81-9964690ab1bb.jpg" width="70px;"/></td>
      <td align="center">Open Gates Window</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798258-a7af0172-6af2-4e0e-a413-ccbf650699fe.jpg" width="70px;"/></td>
+     <td align="center">Undo</td>
   </tr>
   <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797378-6320e2f1-d406-4249-8721-ec20fac8d6e6.jpeg" width="70px;"/></td>
      <td align="center">Close Gates Window</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798296-9feae541-77a0-461d-b9a5-cf665b332df4.jpg" width="70px;"/></td>
+     <td align="center">Redo</td>
   </tr>
   <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154799714-2e33dfef-d834-43ae-b35c-55d5e45b5185.jpg" width="70px;" height="50px"/></td>
      <td align="center">Add switch</td>
-  </tr>
-  <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797436-a680e501-59e2-46da-bbae-40ed4627d190.jpg" width="70px;"/></td>
-     <td align="center">Add lamp</td>
-  </tr>
-  <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797638-651f1944-0acd-4bb8-b1dc-03cd1fa16537.jpg" width="70px;"/></td>
-     <td align="center">Add connection</td>
-  </tr>
-   <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797661-31ccacc7-e4c1-416e-b562-79a78048fb7d.jpeg" width="70px;"/></td>
-     <td align="center">Cut</td>
-  </tr>
-  <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797683-354576ba-7ddf-4122-b179-a29d5e52489b.jpg" width="70px;"/></td>
-     <td align="center">Copy</td>
-  </tr>
-  <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797721-95587d1e-de8a-4fc8-8ab1-13b31ed25bf3.jpg" width="70px;"/></td>
-     <td align="center">Paste</td>
-  </tr>
-    <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798220-17a5f3ac-a813-4e4b-b7d8-ee4480dee62e.jpeg" width="70px;"/></td>
-     <td align="center">Delete</td>
-  </tr>
-</table>
-<div style="border-left: 6px solid #4b4c60;"></div>
-<table style="padding: 5px;" >
-  <thead >
-         <th style="text-align: center;">Icons</th>
-         <th style="text-align: center;">Description</th>
-  </thead>
-  <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798258-a7af0172-6af2-4e0e-a413-ccbf650699fe.jpg" width="70px;"/></td>
-     <td align="center">Undo</td>
-  </tr>
-  <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798296-9feae541-77a0-461d-b9a5-cf665b332df4.jpg" width="70px;"/></td>
-     <td align="center">Redo</td>
-  </tr>
-  <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798334-3b5372be-74e3-4125-a125-fbd3f19c16e9.jpg" width="70px;"/></td>
      <td align="center">Switch to simulation mode</td>
   </tr>
   <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798476-b0c8694d-c47d-4912-9e2b-bd8e4ba96209.jpg" width="70px;"/></td>
+     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797436-a680e501-59e2-46da-bbae-40ed4627d190.jpg" width="70px;"/></td>
+     <td align="center">Add lamp</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798476-b0c8694d-c47d-4912-9e2b-bd8e4ba96209.jpg" width="70px;"/></td>
      <td align="center">Add Label</td>
   </tr>
-   <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798502-66497fc0-7c35-4730-bdd6-2532ebee0182.jpg" width="70px;"/></td>
+  <tr>
+     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797638-651f1944-0acd-4bb8-b1dc-03cd1fa16537.jpg" width="70px;"/></td>
+     <td align="center">Add connection</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798502-66497fc0-7c35-4730-bdd6-2532ebee0182.jpg" width="70px;"/></td>
      <td align="center">Edit Label</td>
   </tr>
-  <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798550-a424e1d8-db20-48e0-9b63-320f668a8918.jpg" width="70px;"/></td>
+   <tr>
+     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797661-31ccacc7-e4c1-416e-b562-79a78048fb7d.jpeg" width="70px;"/></td>
+     <td align="center">Cut</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798550-a424e1d8-db20-48e0-9b63-320f668a8918.jpg" width="70px;"/></td>
      <td align="center">Edit conection</td>
   </tr>
   <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798604-9c0f5e01-4e8b-4744-8500-321aa0b06b7a.jpg" width="70px;"/></td>
+     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797683-354576ba-7ddf-4122-b179-a29d5e52489b.jpg" width="70px;"/></td>
+     <td align="center">Copy</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798604-9c0f5e01-4e8b-4744-8500-321aa0b06b7a.jpg" width="70px;"/></td>
      <td align="center">Save</td>
   </tr>
   <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798586-d49f5ee4-bf26-45d9-9956-49562f5f8c45.jpg" width="70px;"/></td>
+     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154797721-95587d1e-de8a-4fc8-8ab1-13b31ed25bf3.jpg" width="70px;"/></td>
+     <td align="center">Paste</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798586-d49f5ee4-bf26-45d9-9956-49562f5f8c45.jpg" width="70px;"/></td>
      <td align="center">Load</td>
   </tr>
-  <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798624-6965f412-32f1-45ff-80c2-b60647179226.jpg" width="70px;"/></td>
+    <tr>
+     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798220-17a5f3ac-a813-4e4b-b7d8-ee4480dee62e.jpeg" width="70px;"/></td>
+     <td align="center">Delete</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798624-6965f412-32f1-45ff-80c2-b60647179226.jpg" width="70px;"/></td>
      <td align="center">Exit</td>
   </tr>
 </table>
-</div>
- <hr>
+<hr>
 
 ### <img align= center width=90px height=54px src="https://media2.giphy.com/media/Mgd9HoPxmMmkrO42ox/giphy.gif?cid=790b76116c97aed1045a94af7892d23196abe3412dd974ed&rid=giphy.gif&ct=s"> Simulate Mode Icons:
-<div style="display: flex;">
-<table style="padding: 5px;  ">
+<table >
   <thead >
+         <th style="text-align: center;">Icons</th>
+         <th style="text-align: center;">Description</th>
          <th style="text-align: center;">Icons</th>
          <th style="text-align: center;">Description</th>
   </thead>
   <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154799447-e44425e0-36a2-4bf3-99b2-3eab9cb1e927.jpg" width="70px;"/></td>
      <td align="center">Close and Open Switch</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154799612-c5490d63-aec3-434d-a6c0-2c6e73bc3edf.png" width="70px;"/></td>
+     <td align="center">Switch back to Design Mode</td>
   </tr>
   <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154799523-6c9cec14-5526-4a98-b9f4-3c1ff01f9341.jpg" width="70px;" height="40px"/></td>
      <td align="center">Circuit Validation</td>
+       <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798624-6965f412-32f1-45ff-80c2-b60647179226.jpg" width="70px;"/></td>
+     <td align="center">Exit</td>
   </tr>
   <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154799602-d39f0b58-e50e-4251-ba58-77c3967789e7.jpg" width="70px;"/></td>
      <td align="center">Circuit Probing</td>
   </tr>
 </table>
-<div style="border-left: 6px solid #4b4c60;"></div>
-<table style="padding: 5px;" >
-  <thead >
-         <th style="text-align: center;">Icons</th>
-         <th style="text-align: center;">Description</th>
-  </thead>
-  <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154799612-c5490d63-aec3-434d-a6c0-2c6e73bc3edf.png" width="70px;"/></td>
-     <td align="center">Switch back to Design Mode</td>
-  </tr>
- <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/71986226/154798624-6965f412-32f1-45ff-80c2-b60647179226.jpg" width="70px;"/></td>
-     <td align="center">Exit</td>
-  </tr>
-</table>
-</div>
 <hr style="background-color: #4b4c60"></hr>
 
 ## <img align= center width=70px height=70px src="https://static.wixstatic.com/media/43f48c_ba81199cd5de4ea8aa049c90d66bb216~mv2.gif"> Demo Screenshots <a id ="Screenshots"></a>
