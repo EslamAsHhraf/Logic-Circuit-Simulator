@@ -1,8 +1,0 @@
-3
-SWITCH	1		242	312
-LAMP	3		668	322
-NOT	2		422	324
-Connections
-1	2	0
-2	3	0
--1
