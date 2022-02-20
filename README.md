@@ -1,7 +1,7 @@
 # <img align="center" width=80px height=80px src="https://img.itch.zone/aW1nLzIzMTUzNTYuZ2lm/original/SZ90sd.gif"> Logic Circuit Simulator
 
 <p align="center">
-   <img  src="https://media0.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif?cid=790b7611e811f3e35ba4d4f356a30cc0de26d47759ce220a&rid=giphy.gif&ct=g" alt="logo">
+   <img width=100% src="https://media0.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif?cid=790b7611e811f3e35ba4d4f356a30cc0de26d47759ce220a&rid=giphy.gif&ct=g" alt="logo">
 </p>
 
 <p align="center"> 
