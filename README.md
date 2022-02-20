@@ -68,9 +68,9 @@ to ubderstand the project very well
 
 <table>
   <thead >
-         <th style="text-align: center;">Icons</th>
+         <th style="text-align: center;">Icon</th>
          <th style="text-align: center;">Description</th>
-          <th style="text-align: center;">Icons</th>
+          <th style="text-align: center;">Icon</th>
          <th style="text-align: center;">Description</th>
   </thead>
   <tr>
@@ -133,9 +133,9 @@ to ubderstand the project very well
 ### <img align= center width=90px height=54px src="https://media2.giphy.com/media/Mgd9HoPxmMmkrO42ox/giphy.gif?cid=790b76116c97aed1045a94af7892d23196abe3412dd974ed&rid=giphy.gif&ct=s"> Simulate Mode Icons:
 <table >
   <thead >
-         <th style="text-align: center;">Icons</th>
+         <th style="text-align: center;">Icon</th>
          <th style="text-align: center;">Description</th>
-         <th style="text-align: center;">Icons</th>
+         <th style="text-align: center;">Icon</th>
          <th style="text-align: center;">Description</th>
   </thead>
   <tr>
