@@ -1,4 +1,4 @@
-# <img align="center" width=80px height=80px src="https://img.itch.zone/aW1nLzIzMTUzNTYuZ2lm/original/SZ90sd.gif"> Logic Circuit Simulator
+# 🧠 Logic Circuit Simulator
 
 <p align="center">
    <img width=700px src="https://media0.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif?cid=790b7611e811f3e35ba4d4f356a30cc0de26d47759ce220a&rid=giphy.gif&ct=g" alt="logo">
@@ -8,7 +8,7 @@
     <br> 
 </p>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 overview</a>
 - <a href ="#Started"> 💻 Get Started</a>
@@ -18,8 +18,9 @@
 - <a href ="#Structure"> 🧱 File Structure</a>
 - <a href ="#Contributors"> ✨ Contributors</a>
 <hr style="background-color: #4b4c60"></hr>
+<a id = "about"></a>
 
-## <img align="center"  height =40px src="https://c.tenor.com/BU6EP0XgvzEAAAAj/cat-cute.gif"> overview <a id = "about"></a>
+## 📙 overview 
 
 <ul> 
 <li >The required is to implement a simple logic circuit designer/simulator. </li>
@@ -38,8 +39,9 @@ My implementation should be in C++ code.
 
 </ul>
 <hr style="background-color: #4b4c60"></hr>
-
-## <img align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started <a id = "Started"></a>
+ <a id = "Started"></a>
+ 
+## 🚀 Get Started
 
 <ol>
 <li>Clone the repository
@@ -62,9 +64,9 @@ to ubderstand the project very well
 </ol>
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=70px height=70px src="https://media1.giphy.com/media/nHleupBZABMQWmfAMO/giphy.gif?cid=ecf05e47wkwbv3rgkaphdtu3la6iodc4y2asi7r4pufjgfua&rid=giphy.gif&ct=s"> Icons and Their Description <a id ="icons"></a>
+## 📦 Icons and Their Description <a id ="icons"></a>
 
-### <img align= center width=50px height=50px src="https://media3.giphy.com/media/gaozKmGlTJbBnwT5av/200w.webp?cid=ecf05e477dfxjo8wdjl2xcyi6hjhfbtkemj784yotetprezi&rid=200w.webp&ct=s"> Design Mode Icons:
+### 🧊 Design Mode Icons:
 
 <table>
   <thead >
@@ -130,7 +132,7 @@ to ubderstand the project very well
 </table>
 <hr>
 
-### <img align= center width=90px height=54px src="https://media2.giphy.com/media/Mgd9HoPxmMmkrO42ox/giphy.gif?cid=790b76116c97aed1045a94af7892d23196abe3412dd974ed&rid=giphy.gif&ct=s"> Simulate Mode Icons:
+### ☑️ Simulate Mode Icons:
 <table >
   <thead >
          <th style="text-align: center;">Icon</th>
@@ -157,7 +159,7 @@ to ubderstand the project very well
 </table>
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=70px height=70px src="https://static.wixstatic.com/media/43f48c_ba81199cd5de4ea8aa049c90d66bb216~mv2.gif"> Demo Screenshots <a id ="Screenshots"></a>
+## 📸 Demo Screenshots <a id ="Screenshots"></a>
 
 
 <img align= center src="https://user-images.githubusercontent.com/71986226/154776978-5083cdda-41c0-4910-a4cc-693b56f0ddda.PNG">
@@ -185,8 +187,9 @@ to ubderstand the project very well
 
 
 <hr style="background-color: #4b4c60"></hr>
+<a id ="Video"></a>
 
-## <img  align= center width= 70px height =70px src="https://img.genial.ly/5f91608064ad990c6ee12237/bd7195a3-a8bb-494b-8a6d-af48dd4deb4b.gif?genial&1643587200063">  GIF Demo <a id ="Video"></a>
+## 🎥 GIF Demo 
 
 <img align= center src="https://user-images.githubusercontent.com/71986226/154808594-e42c8257-f3e4-4034-b476-448a09fbab51.gif">
 <hr>
@@ -196,13 +199,13 @@ to ubderstand the project very well
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=60px height=60px src="https://media0.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif?cid=ecf05e474iine5pc80eo8gjlacg33l7gcg6bscr2llvvcyb3&rid=giphy.gif&ct=s"> File Structure <a id="Structure"> </a>
+## 🗃️ File Structure <a id="Structure"> </a>
 
 
 <img align= center  src="https://user-images.githubusercontent.com/71986226/154776875-88203f23-0106-4708-b33f-d9e6043f5e13.png">
 <hr style="background-color: #4b4c60"></hr>
 
-## <img  align="center" width= 70px height =70px src="https://i.pinimg.com/originals/7d/a0/0b/7da00b9b02a01cd52ee0c064986c534e.gif"> Contributors <a id ="Contributors"></a>
+## 👑 Contributors <a id ="Contributors"></a>
 
 <table align="center" >
   <tr>
